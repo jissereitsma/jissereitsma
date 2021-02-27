@@ -1,7 +1,7 @@
 # About Jisse Reitsma
 Hi, my name is Jisse Reitsma and I'm from Soest, The Netherlands. I'm the founder of Yireo, a small Dutch agency, focusing on developer training, consultancy and extensions for Magento, Shopware, React, Vue and related technologies. In my daily life, I'm helping frontend developers, backend developers and sysadmins with training, consultancy and open source projects. 
 
-On a personal level, I have a lovely girlfriend Suzan, expecting a baby girl in March 2021, already having fun with a playful kitten Philou. In my free time, I plan *the piano* (Chopin, Rammstein, Beethoven, childrens jazz), pretend I'm a gardener and do some walking or cycling. Or I'm busy with tech.
+On a personal level, I have a lovely girlfriend Suzan, expecting a baby girl in March 2021, already having fun with a playful kitten Philou. In my free time, I plan piano (Chopin, Rammstein, Beethoven, childrens jazz), pretend I'm a gardener and do some walking or cycling. Or I'm busy with tech.
 
 ### Socials
 - Twitter: [@jissereitsma](https://twitter.com/jissereitsma) / [@yireo](https://twitter.com/yireo)
