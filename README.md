@@ -14,11 +14,11 @@ On a personal level, I have a lovely girlfriend Suzan, expecting a baby girl in 
 ### GitHub spaces
 The works of Yireo are spread across the following organizations:
 
-- [Yireo](https://github.com/yireo) - main extensions for Magento 1 and Magento 2
-- [Yireo Training](https://github.com/yireo-training) - educational projects
-- YireoMagento1 - Coming soon
-- YireoShopware - Coming soon
-- [YireoJoomla](https://github.com/YireoJoomla) - deprecated Joomla extensions
+- [yireo](https://github.com/yireo) - main extensions for Magento 2
+- [yireo-training](https://github.com/yireo-training) - educational projects
+- [yireo-magento1](https://github.com/yireo-magento1) - extensions for Magento 2
+- [yireo-shopware6](https://github.com/yireo-shopware6)  - extensions for Shopware 6
+- [yireo-joomla](https://github.com/yireo-joomla) - deprecated Joomla extensions
 
 ### Sites
 - [Yireo](https://www.yireo.com/)
