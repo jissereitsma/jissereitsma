@@ -2,8 +2,7 @@
 
 <img align="left" width="50" height="50" src="github-love.png">
 
-[**If you like what I do and if you use my free extensions to run your projects, why not make a little donation? It would help me
-a great deal and makes sure I can keep releasing new free software.**](https://github.com/sponsors/jissereitsma/)
+**If you use my free extensions to run your projects, why not make a [little donation](https://github.com/sponsors/jissereitsma/)? It would help me a great deal and makes sure I can keep releasing new free software.**
 
 Hi, my name is Jisse Reitsma and I'm from Soest, The Netherlands. I'm the founder of Yireo, a small Dutch company, focusing on developer training, consultancy and extensions for Magento, Shopware, React, Vue and related technologies. In my daily life, I'm helping frontend developers, backend developers and sysadmins with training, consultancy and open source projects. 
 
